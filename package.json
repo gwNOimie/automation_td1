@@ -1,0 +1,16 @@
+{
+  "name": "td1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "pretest": "npm run qltCheck&&echo pretest",
+    "posttest": "echo posttest",
+    "qltCheck": "echo qltCheck",
+    "preqltCheck": "echo preqltCheck",
+    "postqltCheck": "echo postqltCheck"
+  },
+  "author": "",
+  "license": "ISC"
+}
